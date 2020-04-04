@@ -1,0 +1,3 @@
+[submodule "brpc/incubator-brpc"]
+	path = brpc/incubator-brpc
+	url = https://github.com/apache/incubator-brpc.git
